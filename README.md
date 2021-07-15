@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ☁️ I'm currently working on various computer graphics simulation research projects.
+
+- 🏙️ I'm currently learning C++ and real-time rendering as a **programmer**.
+
+- 🎨 I enjoy digital content creations as a hobbist and **art lover**. 
+
+- 🌲 I care for well-being of human and natural environment.
+
+- 🍉 I wish to create virtual environment that heals and empowers.
+
+- 🏀 I recently started running and playing basketball, having so much fun.
