@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ☁️ I'm currently working on various computer graphics simulation research projects.
+- 🔭 I'm from [LIVE](https://orionquest.github.io/research.html) at Rutgers
+
+- ☁️ I'm working on various computer graphics simulation research projects.
 
 - 🏙️ I'm currently learning C++ and real-time rendering as a **programmer**.
 
