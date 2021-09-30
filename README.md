@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 - 🍉 I wish to create virtual environment that heals and empowers.
 
-- 🏀 I recently started running and playing basketball, having so much fun.
+- 🏀 I recently started learning piano, running, tennis, and basketball, having so much fun.
