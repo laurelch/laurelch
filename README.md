@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 - 🏙️ I'm currently learning C++ and real-time rendering as a **programmer**.
 
-- 🎨 I enjoy digital content creations as a hobbist and **art lover**. 
+- 🎨 I enjoy digital content creations as an **art lover**. 
 
 - 🌲 I care for well-being of human and natural environment.
 
 - 🍉 I wish to create virtual environment that heals and empowers.
 
-- 🏀 I recently started learning piano, running, tennis, and basketball, having so much fun.
+- 🏀 I recently started piano and video editing, having so much fun.
