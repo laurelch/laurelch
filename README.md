@@ -26,5 +26,3 @@ Here are some ideas to get you started:
 - 🌲 I care for well-being of human and natural environment.
 
 - 🍉 I wish to create virtual environment that heals and empowers.
-
-- 🏀 I recently started piano and video editing, having so much fun.
