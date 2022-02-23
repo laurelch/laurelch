@@ -17,12 +17,18 @@ Here are some ideas to get you started:
 
 - 🔭 I'm from [LIVE](https://orionquest.github.io/research.html) at Rutgers
 
-- ☁️ I'm working on various computer graphics simulation research projects.
+- ☁️ I'm working on various computer graphics simulation projects.
 
-- 🏙️ I'm currently learning C++ and real-time rendering as a **programmer**.
+- 🏙️ I'm currently learning front-end engineering a **programmer**.
 
 - 🎨 I enjoy digital content creations as an **art lover**. 
 
-- 🌲 I care for well-being of human and natural environment.
+- 🌲 I care for well-being of women, human, and nature.
 
 - 🍉 I wish to create virtual environment that heals and empowers.
+
+- 👯 I’m looking to collaborate on projects that use Three.js or Blender.
+
+- ⚡ Fun fact: I learn and speak 5 languages (English, Chinese, Japanese, Thai, Korean)
+
+- 📫 How to reach me: [Email](chengguizi.han@rutgers.edu) | [LinkedIn](https://www.linkedin.com/in/laurelch/)
