@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: I learn and speak 5 languages (English, Chinese, Japanese, Thai, Korean)
 
-- 📫 How to reach me: chengguizi.han@rutgers.edu | [LinkedIn](https://www.linkedin.com/in/laurelch/)
+- 📫 How to reach me: <first name>.<last name>@rutgers.edu | [LinkedIn](https://www.linkedin.com/in/laurelch/)
