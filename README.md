@@ -15,20 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm from [LIVE](https://orionquest.github.io/research.html) at Rutgers
+- 🔭 I'm from [LIVE](https://orionquest.github.io/research.html) at Rutgers working on various computer graphics simulation projects.
 
-- ☁️ I'm working on various computer graphics simulation projects.
-
-- 🏙️ I'm currently learning front-end engineering a **programmer**.
+- 🏙️ I'm currently learning front-end engineering as a **programmer**.
 
 - 🎨 I enjoy digital content creations as an **art lover**. 
 
-- 🌲 I care for well-being of women, human, and nature.
+- 🌲 I care for well-being of nature, human, and women.
 
 - 🍉 I wish to create virtual environment that heals and empowers.
 
-- 👯 I’m looking to collaborate on projects that use Three.js or Blender.
+- 👯 I’m looking to collaborate on projects that use art and tech to help people live a better life.
 
 - ⚡ Fun fact: I learn and speak 5 languages (English, Chinese, Japanese, Thai, Korean)
 
-- 📫 How to reach me: \<first name\>.\<last name\>@rutgers.edu | [LinkedIn](https://www.linkedin.com/in/laurelch/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/laurelch/)
