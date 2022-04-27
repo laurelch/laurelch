@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 
 - 🏙️ I'm currently learning front-end engineering as a **programmer**.
 
-- 🎨 I enjoy digital content creations as an **art lover**. 
+- 🎨 I enjoy drawing and digital content creations as an **art lover**. 
 
 - 🌲 I care for well-being of nature, human, and women.
 
 - 🍉 I wish to create virtual environment that heals and empowers.
 
-- 👯 I’m looking to collaborate on projects that use art and tech to help people live a better life.
+- 👯 I’m looking to collaborate on projects that use art and tech to help people live stronger.
 
-- ⚡ Fun fact: I learn and speak 5 languages (English, Chinese, Japanese, Thai, Korean)
+- ⚡ Fun fact: I learn and speak 6 languages (English, Chinese, Japanese, French, Thai, Korean)
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/laurelch/)
