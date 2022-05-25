@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm from [LIVE](https://orionquest.github.io/research.html) at Rutgers working on various computer graphics simulation projects.
-
 - 🏙️ I'm currently learning front-end engineering as a **programmer**.
 
 - 🎨 I enjoy drawing and digital content creations as an **art lover**. 
@@ -28,5 +26,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects that use art and tech to help people live stronger.
 
 - ⚡ Fun fact: I learn and speak 6 languages (English, Chinese, Japanese, French, Thai, Korean)
-
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/laurelch/)
