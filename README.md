@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏙️ I'm a PhD student in Computer Science at Rutgers University, specializing in Computer Graphics.
+- 🏙️ I'm a PhD student in Computer Science at Rutgers University, interested in computer graphics and simulation.
 
 - 🎨 I love drawing, painting, and design, and I share my artwork on [Instagram](https://www.instagram.com/maverick.laurel/). 
 
-- 🌲 I wish to create virtual environment that heals and empowers.
+- 🌲 I wish to create virtual environment that heals and empowers people, especially the disadvantaged ones.
 
 - ⚡ Fun fact: I learn and speak 6 languages (English, Chinese, Japanese, French, Thai, Korean).
