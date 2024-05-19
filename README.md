@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🏙️ PhD candidate in CS at Rutgers, focus on computer graphics and physics-based simulation
-- 💻 C++ / JavaScript / Three.js / Python
+- 💻 Rust / C++ / WASM / Three.js
 - 🏡 [Homepage](https://www.laurelhan.com/)
 - 🎨 Artwork on [Instagram](https://www.instagram.com/maverick.laurel/)
 - 🌲 Mission: Create interactive environments that heal and empower people, especially the disadvantaged ones.
