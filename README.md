@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🏙️ PhD candidate in CS at Rutgers, focus on computer graphics and physics-based simulation
-- 💻 Rust / C++ / WASM / Three.js
+- 💻 C++ / Rust / WASM / Three.js
 - 🏡 [Homepage](https://www.laurelhan.com/)
 - 🎨 Artwork on [Instagram](https://www.instagram.com/maverick.laurel/)
 - 🌲 Mission: Create interactive environments that heal and empower people, especially the disadvantaged ones.
-- 🎤 Fun fact: I love learning languages, 🇨🇳 Chinese is my native language, and I also learn and speak 🇫🇷 French, 🇯🇵 Japanese, 🇰🇷 Korean, and 🇹🇭 Thai.
+- 🎤 Fun fact: I love learning languages, 🇨🇳 Mandarin Chinese is my native language, and I also learn and speak 🇯🇵 Japanese, 🇰🇷 Korean, 🇹🇭 Thai, and 🇫🇷 French.
